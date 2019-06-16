@@ -113,7 +113,7 @@ INNER JOIN country_club.Members M
 ON B.memid = M.memid 
 INNER JOIN country_club.Facilities F
 ON B.facid = F.facid
-WHERE LEFT(B.starttime, 10) = ‘2012-09-14’
+WHERE LEFT(B.starttime, 10) = "2012-09-14"
 HAVING booking_cost > 30
 ORDER BY 3 DESC, 1, 2
 
@@ -122,7 +122,10 @@ ORDER BY 3 DESC, 1, 2
 
 SELECT DISTINCT CASE WHEN M.memid = 0 THEN "GUEST"
 ELSE CONCAT(M.surname,', ',M.firstname) END AS member_name,
-F.name AS facility_name,
+sub.facility_name, sub.booking_cost
+FROM country_club.Members M
+JOIN
+(SELECT M.memid AS id, F.name AS facility_name,
 CASE WHEN M.memid = 0 THEN B.slots * 0.5 * F.guestcost
 ELSE B.slots * F.membercost END AS booking_cost
 FROM country_club.Bookings B
@@ -130,9 +133,12 @@ INNER JOIN country_club.Members M
 ON B.memid = M.memid 
 INNER JOIN country_club.Facilities F
 ON B.facid = F.facid
-WHERE LEFT(B.starttime, 10) = ‘2012-09-14’
+WHERE LEFT(B.starttime, 10) = "2012-09-14" 
 HAVING booking_cost > 30
-ORDER BY 3 DESC, 1, 2
+ORDER BY booking_cost DESC) sub
+ON M.memid = sub.id
+
+
 
 
 /* Q10: Produce a list of facilities with a total revenue less than 1000.
