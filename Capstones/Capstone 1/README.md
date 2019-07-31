@@ -1,5 +1,4 @@
-DSCT Capstone 1 - Forecasting Fatalities in NYC
-
+# DSCT Capstone 1 - Forecasting Fatalities in NYC
 
 Jupyter Notebooks:
 - CP1-01_Data_Wrangling.ipynb (data acquistion and prepocessing from API)
