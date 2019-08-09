@@ -1,19 +1,19 @@
 # DSCT Capstone 1 - Forecasting Fatalities in NYC
 
-This project examines the EMS Incident Dispatch Data from NYC Open Data to predict whether or not an EMS response will result in a fatality based on specific features.
+This project examines the [EMS Incident Dispatch Data from NYC Open Data](https://data.cityofnewyork.us/Public-Safety/EMS-Incident-Dispatch-Data/76xm-jjuj) to predict whether or not an EMS response in New York City will result in a fatality based on specific features.
 
 
 
-Jupyter Notebooks:
-- CP1-01_Data_Wrangling.ipynb (data acquistion and prepocessing from API)
-- CP1-01_Data_Wrangling_alt.ipynb (data acquisition and preprocessing from CSV file)
-- CP1-02_EDA.ipynb (exploratory data analysis using cleaned dataset)
+### Jupyter Notebooks:
+- [Data Wrangling (Dynamic)](code/CP1-01_Data_Wrangling.ipynb) (data acquistion and prepocessing)
+- [Data Wrangling (Static)](code/CP1-01_Data_Wrangling_alt.ipynb) (data acquisition and preprocessing from CSV file)
+- [Exploratory Data Analysis](code/CP1-02_EDA.ipynb) (exploratory data analysis using cleaned dataset)
 
-Documentation:
-- DSCT_Capstone_1_Proposal.pdf
-- DSCT_Capstone_1_Data_Wrangling.pdf
-- DSCT_Capstone_1_Data_Story.pdf
+### Documentation:
+- [Project Proposal](docs/DSCT_Capstone_1_Proposal.pdf)
+- [Data Wrangling Overview](docs/DSCT_Capstone_1_Data_Wrangling.pdf)
+- [Data Story](docs/DSCT_Capstone_1_Data_Story.pdf)
 
-Data:
-- EMS_incident_dispatch_data_description.xlsx (a companion file that describes the dataset)
+### Data:
+- [Description of EMS Dispatch Data](data/EMS_incident_dispatch_data_description.xlsx) (a companion file that describes the dataset)
 
