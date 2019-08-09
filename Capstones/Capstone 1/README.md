@@ -5,8 +5,8 @@ This project examines the [EMS Incident Dispatch Data from NYC Open Data](https:
 
 
 ### Jupyter Notebooks:
-- [Data Wrangling, Dynamic](code/CP1-01_Data_Wrangling.ipynb) (data acquistion from API and prepocessing)
-- [Data Wrangling, Static](code/CP1-01_Data_Wrangling_alt.ipynb) (data acquisition and preprocessing from CSV file)
+- [Data Wrangling, Dynamic](code/CP1-01_Data_Wrangling.ipynb) (data acquistion and prepocessing from API)
+- [Data Wrangling, Static](code/CP1-01_Data_Wrangling_alt.ipynb) (alternate data acquisition and preprocessing from CSV file)
 - [Exploratory Data Analysis](code/CP1-02_EDA.ipynb)
 
 ### Documentation:
@@ -15,5 +15,5 @@ This project examines the [EMS Incident Dispatch Data from NYC Open Data](https:
 - [Data Story](docs/DSCT_Capstone_1_Data_Story.pdf)
 
 ### Data:
-- [Description of EMS Dispatch Data](data/EMS_incident_dispatch_data_description.xlsx) (a companion file that describes the dataset)
+- [Description of EMS Dispatch Data](data/EMS_incident_dispatch_data_description.xlsx) (a companion XLSX file that describes the dataset)
 
