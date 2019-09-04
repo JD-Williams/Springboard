@@ -1,6 +1,6 @@
 # DSCT Capstone 1 - Forecasting Fatalities in NYC
 
-This project examines the [EMS Incident Dispatch Data from NYC Open Data](https://data.cityofnewyork.us/Public-Safety/EMS-Incident-Dispatch-Data/76xm-jjuj){:target="_blank"} to predict whether or not an EMS response in New York City will result in a fatality based on specific features.
+This project examines the [EMS Incident Dispatch Data from NYC Open Data](https://data.cityofnewyork.us/Public-Safety/EMS-Incident-Dispatch-Data/76xm-jjuj) to predict whether or not an EMS response in New York City will result in a fatality based on specific features.
 
 
 
