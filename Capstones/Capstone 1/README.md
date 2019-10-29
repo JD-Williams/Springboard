@@ -11,6 +11,7 @@ This project examines the [EMS Incident Dispatch Data from NYC Open Data](https:
 
 ### Data
 - [Description of EMS Dispatch Data](data/EMS_incident_dispatch_data_description.xlsx) (a companion XLSX file that describes the dataset)
+- [Geographic Details for ZCTAs](data/2019_Gaz_zcta_national.txt) (a TXT file that contains GPS coordinates for ZCTAs)
 
 ### Documentation:
 - [Project Proposal](docs/DSCT_Capstone_1_Proposal.pdf)
