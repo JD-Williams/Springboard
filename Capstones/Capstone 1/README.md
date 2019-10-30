@@ -10,8 +10,10 @@ This project examines the [EMS Incident Dispatch Data from NYC Open Data](https:
 - [Exploratory Data Analysis](code/CP1-02_EDA.ipynb)
 
 ### Data
+- [EMS Incident Dispatch Data](https://data.cityofnewyork.us/api/views/76xm-jjuj/rows.csv?accessType=DOWNLOAD)
 - [Description of EMS Dispatch Data](data/EMS_incident_dispatch_data_description.xlsx) (a companion XLSX file that describes the dataset)
 - [Geographic Details for ZCTAs](data/2019_Gaz_zcta_national.txt) (a TXT file that contains GPS coordinates for ZCTAs)
+- [NYC Boundaries by ZIP Code](data/ZIP_CODE_040114.shp) (a shapefile for NYC)
 
 ### Documentation:
 - [Project Proposal](docs/DSCT_Capstone_1_Proposal.pdf)
