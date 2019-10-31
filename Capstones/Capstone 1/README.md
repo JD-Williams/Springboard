@@ -5,8 +5,8 @@ This project examines the [EMS Incident Dispatch Data from NYC Open Data](https:
 
 
 ### Code:
-- [CP1-01 Data Wrangling, Dynamic](code/CP1-01_Data_Wrangling-api.ipynb) (data acquistion and prepocessing from Socrata Open Data API)
-- [CP1-01 Data Wrangling, Static](code/CP1-01_Data_Wrangling-csv.ipynb) (data acquisition and preprocessing from CSV file)
+- [CP1-01 Data Wrangling, Dynamic](code/CP1-01_DW-api.ipynb) (data acquistion and prepocessing from Socrata Open Data API)
+- [CP1-01 Data Wrangling, Static](code/CP1-01_DW-csv.ipynb) (data acquisition and preprocessing from CSV file)
 - [CP1-02 Exploratory Data Analysis](code/CP1-02_EDA.ipynb)
 - [CP1-03 Inferential Statistics](code/CP1-03_Stats.ipynb)
 - [CP1-04 Machine Learning Algorithms](code/CP1-04_MLAs.ipynb)
@@ -18,6 +18,6 @@ This project examines the [EMS Incident Dispatch Data from NYC Open Data](https:
 - [NYC Boundaries by ZIP Code](data/ZIP_CODE_040114.shp) (a shapefile for NYC)
 
 ### Documentation:
-- [Project Proposal](docs/DSCT_Capstone_1_Proposal.pdf)
-- [Data Wrangling](docs/DSCT_Capstone_1_Data_Wrangling.pdf)
-- [Data Story](docs/DSCT_Capstone_1_Data_Story.pdf)
+1. [Project Proposal](docs/DSCT_Capstone_1_Proposal.pdf)
+2. [Data Wrangling](docs/DSCT_Capstone_1_Data_Wrangling.pdf)
+3. [Data Story](docs/DSCT_Capstone_1_Data_Story.pdf)
