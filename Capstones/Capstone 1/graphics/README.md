@@ -23,7 +23,7 @@ iPython code = [CP1-02](../code/CP1-02_EDA.ipynb)
 - CP1-02_fig05A:  Fatalities by Borough (type = barplot)
 
 ### Inferential Statistics
-iPython code: [CP1-03](../code/CP1-03_Stats.ipynb)
+iPython code = [CP1-03](../code/CP1-03_Stats.ipynb)
 
 - CP1-03_fig03A2: Incident Response Times (type = boxplot)
 - CP1-03_fig03A2: Incident Response Times (type = distplot)
