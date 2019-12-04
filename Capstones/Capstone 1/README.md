@@ -21,3 +21,4 @@ This project examines the [EMS Incident Dispatch Data from NYC Open Data](https:
 1. [Project Proposal](docs/CP1-01_Proposal.pdf)
 2. [Data Wrangling](docs/CP1-02_Data_Wrangling.pdf)
 3. [Data Story](docs/CP1-03_Data_Story.pdf)
+5. [Milestone Report](docs/CP1-05_Milestone_Report.pdf)
