@@ -27,3 +27,8 @@ iPython code = [CP1-03](../code/CP1-03_Stats.ipynb)
 
 - CP1-03_fig03A2: Incident Response Times (type = boxplot)
 - CP1-03_fig03A2: Incident Response Times (type = distplot)
+
+### Machine Learning Algorithms - Baseline
+iPython code = [CP1-04a](../code/CP1-04a_MLA.ipynb)
+
+- CP1-04a_fig03B: Confusion Matrix for Baseline Classifier (type = confusion matrix plot)
