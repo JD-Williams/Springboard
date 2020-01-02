@@ -10,7 +10,8 @@ This project examines the [EMS Incident Dispatch Data from NYC Open Data](https:
 - [Exploratory Data Analysis](code/CP1-02_EDA.ipynb)
 - [Inferential Statistics](code/CP1-03_Stats.ipynb)
 - [Machine Learning Algorithms - Baseline](code/CP1-04a_MLA.ipynb)
-- [Machine Learning Algorithms - Tuned](code/CP1-04b_MLA.ipynb)
+- [Machine Learning Algorithms - Under-Sampling](code/CP1-04b_MLA.ipynb)
+- [Machine Learning Algorithms - Over-Sampling](code/CP1-04c_MLA.ipynb)
 
 ### Data:
 - [EMS Incident Dispatch Data](https://data.cityofnewyork.us/api/views/76xm-jjuj/rows.csv?accessType=DOWNLOAD) (a CSV file for the EMS dataset)
