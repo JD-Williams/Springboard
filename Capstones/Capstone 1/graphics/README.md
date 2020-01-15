@@ -10,7 +10,7 @@ iPython code = [CP1-02](../code/CP1-02_EDA.ipynb)
 | CP1-02_fig02A | Time Series of Fatalities | lineplot |
 | CP1-02_fig02B | Time Series of Fatalities, by year | lineplot |
 | CP1-02_fig02C | Fatalities by Month | barplot |
-| CP1-02_fig02D |  Fatalities by Time of Year | heatmap |
+| CP1-02_fig02D |  Fatalities by Day of Year | heatmap |
 | CP1-02_fig02E |  Fatalities by Time of Week | heatmap |
 | CP1-02_fig03A1 | Incident Response Times | boxplot |
 | CP1-02_fig03A2 | Incident Response Times | distplot |
