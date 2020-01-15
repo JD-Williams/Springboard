@@ -5,8 +5,12 @@ Below is an index of all visualizations produced by the iPython code for this pr
 ### Exploratory Data Analysis 
 iPython code = [CP1-02](../code/CP1-02_EDA.ipynb)
 
-- CP1-02_fig02A:  Time Series of Fatalities (type = lineplot)
-- CP1-02_fig02B:  Time Series of Fatalities, by year (type = lineplot)
+| File Name | Title | Plot Type |
+| :---: | :--- | :--- |
+| CP1-02_fig02A | Time Series of Fatalities | lineplot |
+| CP1-02_fig02B | Time Series of Fatalities, by year | lineplot |
+
+
 - CP1-02_fig02C:  Fatalities by Month (type = barplot)
 - CP1-02_fig02D:  Fatalities by Time of Year (type = heatmap)
 - CP1-02_fig02E:  Fatalities by Time of Week (type = heatmap)
