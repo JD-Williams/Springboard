@@ -1,4 +1,4 @@
-# Code for CP1
+# Documentation for CP1
 
 Below is an index of all documentation for this project.
 
