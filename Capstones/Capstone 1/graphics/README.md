@@ -7,7 +7,7 @@ iPython code = [CP1-02](../code/CP1-02_EDA.ipynb)
 
 | File Name | Title | Plot Type |
 | :---: | :--- | :---: |
-| CP1-02_fig02A | Time Series of Fatalities | lineplot |
+| [CP1-02_fig02A](CP1-02_fig02A.ipynb) | Time Series of Fatalities | lineplot |
 | CP1-02_fig02B | Time Series of Fatalities, by year | lineplot |
 | CP1-02_fig02C | Fatalities by Month | barplot |
 | CP1-02_fig02D |  Fatalities by Day of Year | heatmap |
